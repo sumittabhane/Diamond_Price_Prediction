@@ -19,7 +19,7 @@ setup(
     name='DiamondPricePrediction',
     version='0.0.1',
     author='Sumit Tabhane',
-    author_email='Sumit Tabhane',
+    author_email='Sumittabhane888@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
 
